@@ -10,7 +10,7 @@ I'm migrating my career to the technology area. Studying a lot of new technologi
 Willing to face new challenges and always looking for growth.
 
 ## Contact :e-mail:
-[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/alinehalmeidah/)](https://github.com/alinehalmeidah)
+[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/alinedomaschi/)](https://github.com/alinedomaschi)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/alinedomaschi/)](https://www.linkedin.com/in/alinedomaschi/)
 [![GMAIL Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=whitee&link=mailto:alinedomaschi@gmail.com)](mailto:alinedomaschi@gmail.com)   
 
@@ -31,8 +31,8 @@ Willing to face new challenges and always looking for growth.
 <center>
 <table>
   <tr>
-    <td><img align="left" padding-right="10px" src=https://github-readme-stats.vercel.app/api?username=alinehalmeidah&show_icons=true&theme=dracula></td>
-    <td><img align="left" padding-right="10px" src=https://github-readme-stats.vercel.app/api/top-langs/?username=alinehalmeidah&show_icons=true&theme=dracula&layout=compact></td>
+    <td><img align="left" padding-right="10px" src=https://github-readme-stats.vercel.app/api?username=alinedomaschi&show_icons=true&theme=dracula></td>
+    <td><img align="left" padding-right="10px" src=https://github-readme-stats.vercel.app/api/top-langs/?username=alinedomaschi&show_icons=true&theme=dracula&layout=compact></td>
   </tr>  
 </table>
 </center>
