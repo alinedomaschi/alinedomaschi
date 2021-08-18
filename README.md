@@ -32,7 +32,9 @@ Willing to face new challenges and always looking for growth.
 <table>
   <tr>
     <td><img align="left" padding-right="10px" src=https://github-readme-stats.vercel.app/api?username=alinedomaschi&show_icons=true&theme=dracula></td>
-    <td><img align="left" padding-right="10px" src=https://github-readme-stats.vercel.app/api/top-langs/?username=alinedomaschi&show_icons=true&theme=dracula&layout=compact></td>
+   
+ <!--  <td><img align="left" padding-right="10px" src=https://github-readme-stats.vercel.app/api/top-langs/?username=alinedomaschi&show_icons=true&theme=dracula&layout=compact></td> -->
+   
   </tr>  
 </table>
 </center>
