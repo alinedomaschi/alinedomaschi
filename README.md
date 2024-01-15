@@ -3,7 +3,6 @@
 ## I'm Aline Domaschi! 
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=alinehalmeidah.alinehalmeidahcountColorcountColor)
 
-
  :rose: Hi my name is Aline Domaschi!
 
 🚀 About Me: Passionate Front-End Developer Enthusiastic about Innovation and Technical Excellence
