@@ -4,10 +4,14 @@
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=alinehalmeidah.alinehalmeidahcountColorcountColor)
 
 
- :rose: Hi my name is Aline Almeida!
-I am graduated in Social Communication with qualification in image and video.
-I'm migrating my career to the technology area. Studying a lot of new technologies for my knowledge
-Willing to face new challenges and always looking for growth.
+ :rose: Hi my name is Aline Domaschi!
+
+🚀 About Me: Passionate Front-End Developer Enthusiastic about Innovation and Technical Excellence
+
+Hello, I'm Aline, a technology enthusiast who has embarked on an exciting journey in front-end development. With a strong foundation as a Front-End Developer, I am focused on exploring new horizons, channeling my passion for creating impactful and visually appealing solutions.
+
+🛠️ Technical Experience:
+Throughout my career, I have developed advanced skills in JavaScript, React, Sass, HTML, and CSS. I am consistently committed to technical excellence, ensuring that my creations not only meet requirements but exceed expectations.
 
 ## Contact :e-mail:
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/alinedomaschi/)](https://github.com/alinedomaschi)
