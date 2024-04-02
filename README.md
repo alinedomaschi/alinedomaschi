@@ -5,12 +5,12 @@
 
  :rose: Hi my name is Aline Domaschi!
 
-🚀 About Me: Passionate Front-End Developer Enthusiastic about Innovation and Technical Excellence
+🚀 About Me: Passionate UX/UI Designer and Front-End Developer Dedicated to Innovation and User-Centric Solutions
 
-Hello, I'm Aline, a technology enthusiast who has embarked on an exciting journey in front-end development. With a strong foundation as a Front-End Developer, I am focused on exploring new horizons, channeling my passion for creating impactful and visually appealing solutions.
+Hello, I'm Aline, a technology enthusiast with a deep passion for crafting seamless user experiences through innovative design and front-end development practices. My journey in UX/UI design and front-end development has fueled my drive to create impactful and visually appealing solutions that prioritize user satisfaction.
 
-🛠️ Technical Experience:
-Throughout my career, I have developed advanced skills in JavaScript, React, Sass, HTML, and CSS. I am consistently committed to technical excellence, ensuring that my creations not only meet requirements but exceed expectations.
+🛠️ Technical Experience: Over the years, I have honed my skills in JavaScript, React, Sass, HTML, and CSS, leveraging them to create intuitive and engaging user interfaces. My focus on UX/UI design principles ensures that my creations not only meet technical requirements but also deliver exceptional user experiences. I am committed to continuous learning and staying updated with the latest trends in UX/UI and front-end development to deliver cutting-edge solutions.
+
 
 ## Contact :e-mail:
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/alinedomaschi/)](https://github.com/alinedomaschi)
